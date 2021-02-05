@@ -5,17 +5,16 @@ categories:
     - title: Model-informed COVID-19 vaccine prioritization strategies by age and serostatus
       year: 2021
       venue: Center for Statistics and Quantitative Infectious Diseases/CIDID working group, UFL
+      format: Invited talk
       links:
 
    
     - title: Vaccine Prioritization Strategies
       year: 2021
       venue: Dana-Farber Cancer Institute Data Science Zoominar
-
-
-    - title: Using models of SARS_CoV-2 dynamics to inform vaccine prioritization
-      year: 2020
-      venue: WHO SAGE Working Group
+      format: Invited talk
+      
+      
      
 
 
@@ -28,5 +27,10 @@ categories:
     - title: Using models of SARS_CoV-2 dynamics to inform vaccine prioritization
       year: 2020
       venue: WHO SAGE Working Group
-      
+      format: Invited talk
+
+    - title: Model-informed COVID-19 Vaccine Prioritization by Age and Serostatus
+      year: 2020
+      venue: COVID-19 Dynamics and Evolution virtual conference, UCSD
+      format: Talk
     
