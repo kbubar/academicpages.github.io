@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ------
-Ph.D. Applied Math, University of Colorado Boulder, 2019 - present
+Graduate school in Applied Math, University of Colorado Boulder, 2019 - present
 Certificate in Interdisciplinary Quantitative Biology, University of Colorado Boulder, 2019 - present
 B.S. Applied Math and Statistics, Colorado School of Mines, 2019
 
