@@ -11,7 +11,7 @@ author_profile: true
   {% for paper in category.pubs %}
     <li><strong>{{paper.title}}</strong>.
     <br>
-    <em>{{paper.venue}}</em>, 
+    <em>{{paper.venue}}</em> 
     {% if paper.volumeissue %}
       {{paper.volumeissue}},
     {% endif %}
@@ -21,6 +21,7 @@ author_profile: true
         [<a href="{{link.url}}">{{link.text}}</a>] 
       {% endfor %}
     {% endif %}
+      {{paper.format}}
     <br><br></li>
   {% endfor %}
   </ol>
