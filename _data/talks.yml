@@ -1,19 +1,11 @@
 categories:
-  - heading: "Talks"
+  - heading: "Invited Talks"
     pubs:
 
-    - title: Optimizing genetic algorithm parameters for atmospheric carbon monoxide modeling
-      authors:
-      - Meera Duggal
-      - William Daniels
-      - Dorit Hammerling
-      year: 2020
-      venue: Electronic Undergraduate Statistics Research Conference (eUSR)
+    - title: Model-informed COVID-19 vaccine prioritization strategies by age and serostatus
+      year: 2021
+      venue: Center for Statistics and Quantitative Infectious Diseases (CSQUID)/CIDID working group, UFL
       links:
-        - text: eUSR
-          url: https://www.causeweb.org/usproc/eusrc/2020/virtual-posters/11
-        - text: PDF
-          url: https://wsdaniels.github.io/files/2020_meera_eUSR.pdf 
 
    
     - title: Using the climate to model atmospheric carbon monoxide
