@@ -1,6 +1,6 @@
 categories:
-  - heading: "Invited Talks"
-    pubs: 2021
+  - heading: "2021"
+    pubs: 
 
     - title: Model-informed COVID-19 vaccine prioritization strategies by age and serostatus
       year: 2021
@@ -23,20 +23,10 @@ categories:
 
 
 
-  - heading: "Posters"
+  - heading: "2020"
     pubs: 
-    - title: Student-led investigation of TROPOMI data for the US
-      authors:
-      - Dorit Hammerling
-      - Lewis Blake
-      - William Daniels
-      - Aidan Dykstal
-      - Sean Crowell
+    -  title: Using models of SARS_CoV-2 dynamics to inform vaccine prioritization
       year: 2020
-      venue: European Geosciences Union (EGU) General Assembly
-      links:
-        - text: EGU
-          url: https://doi.org/10.5194/egusphere-egu2020-22133
-        - text: PDF
-          url: https://wsdaniels.github.io/files/2020_egu_poster.pdf
-
+      venue: WHO SAGE Working Group
+      
+    
