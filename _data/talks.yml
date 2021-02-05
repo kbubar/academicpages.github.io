@@ -3,23 +3,17 @@ categories:
     pubs:
 
     - title: Model-informed COVID-19 vaccine prioritization strategies by age and serostatus
-      authors: Kate Bubar
       year: 2021
       venue: Center for Statistics and Quantitative Infectious Diseases/CIDID working group, UFL
       links:
 
    
     - title: Vaccine Prioritization Strategies
-      authors:
-      - Kate Bubar
-      - Daniel Larremore
       year: 2021
       venue: Dana-Farber Cancer Institute Data Science Zoominar
 
 
     - title: Using models of SARS_CoV-2 dynamics to inform vaccine prioritization
-      authors:
-      - Kate Bubar
       year: 2020
       venue: WHO SAGE Working Group
      
