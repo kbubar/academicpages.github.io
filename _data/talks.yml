@@ -3,39 +3,25 @@ categories:
     pubs:
 
     - title: Model-informed COVID-19 vaccine prioritization strategies by age and serostatus
+      authors: Kate Bubar
       year: 2021
-      venue: Center for Statistics and Quantitative Infectious Diseases (CSQUID)/CIDID working group, UFL
+      venue: Center for Statistics and Quantitative Infectious Diseases/CIDID working group, UFL
       links:
 
    
-    - title: Using the climate to model atmospheric carbon monoxide
+    - title: Vaccine Prioritization Strategies
       authors:
-      - William Daniels
-      - Dorit Hammerling
-      - Rebecca Buchholz
+      - Kate Bubar
+      - Daniel Larremore
+      year: 2021
+      venue: Dana-Farber Cancer Institute Data Science Zoominar
+
+
+    - title: Using models of SARS_CoV-2 dynamics to inform vaccine prioritization
+      authors:
+      - Kate Bubar
       year: 2020
-      venue: Mines Graduate Research and Discovery Symposium (GRADS)
-      volumeissue: 8th Annual
-      links:
-        - text: GRADS
-          url: https://www.youtube.com/watch?v=6T-UsoqnUlw&feature=youtu.be&ab_channel=MinesGRADS
-        - text: PDF
-          url: https://wsdaniels.github.io/files/grads_talk.pdf
-
-
-    - title: What can elves tell us about very strong lightning?
-      authors:
-      - William Daniels
-      - Kevin-Druis Merenda
-      - Lawrence Wiencke
-      year: 2019
-      venue: APS April Meeting
-      volumeissue: Volume 64, Number 3
-      links:
-        - text: APS
-          url: https://meetings.aps.org/Meeting/APR19/Session/G12.2
-        - text: PDF
-          url: https://wsdaniels.github.io/files/daniels_aps_talk.pdf
+      venue: WHO SAGE Working Group
      
 
 
@@ -60,52 +46,3 @@ categories:
         - text: PDF
           url: https://wsdaniels.github.io/files/2020_egu_poster.pdf
 
-
-    - title: Genetic algorithm optimization study for atmospheric carbon monoxide models
-      authors:
-      - Meera Duggal
-      - William Daniels
-      - Dorit Hammerling
-      year: 2020
-      venue: Mines Undergraduate Research Symposium
-      links:
-        - text: Mines
-          url: https://www.mines.edu/undergraduate-research/genetic-algorithm-optimization-study-for-atmospheric-carbon-monoxide-models/
-        - text: PDF
-          url: https://wsdaniels.github.io/files/meera_undergrad_research.pdf
-
-
-    - title: Improving atmospheric carbon monoxide models
-      authors:
-      - William Daniels
-      - Dorit Hammerling
-      - Rebecca Buchholz
-      year: 2019
-      venue: Mines Applied Math and Statistics Open House
-      links:
-        - text: PDF
-          url: https://wsdaniels.github.io/files/2019_ams_open_house.pdf
-
-
-    - title: What can elves tell us about very strong lightning?
-      authors:
-      - William Daniels
-      - Kevin-Druis Merenda
-      - Lawrence Wiencke
-      year: 2019
-      venue: Physics Undergraduate Research Symposium
-      links:
-        - text: PDF
-          url: https://wsdaniels.github.io/files/physics_undergrad_research.pdf
-
-
-    - title: Characterization of Molecular Structure and Interlinkage Network for Seven Representative Biorefinery Lignin
-      authors:
-      - William Daniels
-      - Ruoshui Ma
-      - Xiao Zhang
-      year: 2016
-      venue: Northwest Advanced Renewables Alliance (NARA) Summer Undergraduate Research Experience (SURE)
-      links:
-        - text: PDF
-          url: https://wsdaniels.github.io/files/2016_daniels_nara_sure.pdf
