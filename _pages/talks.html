@@ -11,14 +11,6 @@ author_profile: true
   {% for paper in category.pubs %}
     <li><strong>{{paper.title}}</strong>.
     <br>
-    {% for author in paper.authors %}
-      {% if forloop.last %}
-        {{author}}.
-    {% else %}
-        {{author}},
-    {% endif %}
-    {% endfor %}
-    <br>
     <em>{{paper.venue}}</em>, 
     {% if paper.volumeissue %}
       {{paper.volumeissue}},
